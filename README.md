@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ NetworkLauncher - ابزار محافظت از IP و Kill Switch
 
 <div dir="rtl">
