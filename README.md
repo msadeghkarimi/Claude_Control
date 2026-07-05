@@ -333,11 +333,11 @@ GitHub: [@msadeghkarimi](https://github.com/msadeghkarimi)
 ## 🔗 لینک‌های مرتبط
 
 <div dir="rtl">
+## 📦 دانلود
 
-- [صفحه Releases](https://github.com/msadeghkarimi/Claude_Control/releases)
-- [گزارش باگ](https://github.com/msadeghkarimi/Claude_Control/issues)
-- [درخواست ویژگی جدید](https://github.com/msadeghkarimi/Claude_Control/issues/new)
+برای دریافت آخرین نسخه فایل اجرایی، از لینک زیر استفاده کنید:
 
+- 📥 [دریافت فایل نصبی (Windows)](https://t.me/msadeghkarimi/3098)
 </div>
 
 ---
