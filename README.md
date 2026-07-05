@@ -388,4 +388,3 @@ GitHub: [@msadeghkarimi](https://github.com/msadeghkarimi)
 **اگر این پروژه مفید بود، حتماً Star بدهید! ⭐**
 
 </div>
-```
