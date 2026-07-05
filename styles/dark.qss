@@ -1,0 +1,227 @@
+* {
+    font-family: "Segoe UI", Arial;
+}
+
+QMainWindow {
+    background-color: #1e1e1e;
+}
+
+QWidget {
+    color: #ffffff;
+    background-color: #1e1e1e;
+}
+
+QDialog {
+    background-color: #1e1e1e;
+}
+
+#header {
+    background-color: #252526;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#protectionFrame {
+    background-color: #2d2d30;
+    border: 2px solid #0e639c;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#cardsContainer {
+    background: transparent;
+}
+
+#card {
+    background-color: #2d2d30;
+    border-radius: 10px;
+    padding: 15px;
+    min-width: 150px;
+}
+
+#cardTitle {
+    color: #858585;
+}
+
+#cardValue {
+    color: #ffffff;
+}
+
+#primaryButton {
+    background-color: #0e639c;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#primaryButton:hover {
+    background-color: #1177bb;
+}
+
+#secondaryButton {
+    background-color: #3e3e42;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+#secondaryButton:hover {
+    background-color: #505053;
+}
+
+#historyTable {
+    background-color: #252526;
+    border: none;
+    border-radius: 8px;
+    gridline-color: #3e3e42;
+}
+
+#historyTable::item {
+    padding: 8px;
+}
+
+#historyTable::item:selected {
+    background-color: #0e639c;
+}
+
+#appList {
+    background-color: #252526;
+    border: 1px solid #3e3e42;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+#appList::item {
+    padding: 8px;
+    border-radius: 4px;
+}
+
+#appList::item:selected {
+    background-color: #0e639c;
+}
+
+QHeaderView::section {
+    background-color: #2d2d30;
+    color: white;
+    padding: 8px;
+    border: none;
+    font-weight: bold;
+}
+
+QLineEdit {
+    background-color: #3e3e42;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 8px;
+    color: white;
+    font-size: 12px;
+}
+
+QLineEdit:focus {
+    border: 1px solid #0e639c;
+}
+
+#footer {
+    color: #858585;
+    padding: 10px;
+}
+
+/* در انتهای فایل اضافه کن */
+
+#appScrollArea {
+    background-color: #252526;
+    border: 1px solid #3e3e42;
+    border-radius: 6px;
+}
+
+#appCheckbox {
+    padding: 8px;
+    spacing: 10px;
+}
+
+#appCheckbox::indicator {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    border: 2px solid #555;
+    background-color: #2d2d30;
+}
+
+#appCheckbox::indicator:checked {
+    background-color: #0e639c;
+    border-color: #0e639c;
+    image: url(none);
+}
+
+#appCheckbox::indicator:checked:after {
+    content: "✓";
+    color: white;
+}
+
+#appCheckbox:hover {
+    background-color: #3e3e42;
+    border-radius: 4px;
+}
+
+/* در انتهای فایل */
+
+#tabButton {
+    background-color: #3e3e42;
+    color: #aaa;
+    border: none;
+    border-radius: 6px 6px 0 0;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#tabButton:checked {
+    background-color: #0e639c;
+    color: white;
+}
+
+#tabButton:hover {
+    background-color: #505053;
+}
+
+#tabButton:checked:hover {
+    background-color: #1177bb;
+}
+
+#appScrollArea {
+    background-color: #252526;
+    border: 1px solid #3e3e42;
+    border-radius: 6px;
+}
+
+#appCheckbox {
+    padding: 8px;
+    spacing: 10px;
+}
+
+#appCheckbox::indicator {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    border: 2px solid #555;
+    background-color: #2d2d30;
+}
+
+#appCheckbox::indicator:checked {
+    background-color: #0e639c;
+    border-color: #0e639c;
+}
+
+#appCheckbox:hover {
+    background-color: #3e3e42;
+    border-radius: 4px;
+}
+
+#appCheckbox:disabled {
+    color: #4CAF50;
+}
