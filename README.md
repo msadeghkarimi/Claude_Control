@@ -311,7 +311,6 @@ NetworkLauncher/
 
 <div dir="rtl">
 
-این پروژه تحت لایسنس MIT منتشر شده است. برای اطلاعات بیشتر فایل [LICENSE](LICENSE) را مطالعه کنید.
 
 </div>
 
